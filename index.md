@@ -1,10 +1,12 @@
 ---
 layout: page
-description: "The New URI for IoT"
+description: "The most appropriate URI for IoT"
 ---
 ## What is ePosition?
 
 ePosition is a new Universal Resource Identifier(URI) that every "thing" in IoT owns an email address type of identification. Instead of @, it uses #. 
+
+As **email** means *online mails*, **ePosition** means that the positions of "things" are connected in both on & offline.  
 
 It is a new idea to identify "things" in the Internet of Things.
 
@@ -38,3 +40,9 @@ However, IoT is different. The connected “things” are not websites but smart
 ## How will ePosition affect the Internet of Things?
 
 Read more about ePosition on this post, **[What is Your Name In IoT?](/about)**
+
+## Who owns ePosition?
+
+Currently, ePosition Co. is the IP holder of ePosition. 
+
+Please contact us for IP inquiries.
